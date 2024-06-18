@@ -5,11 +5,6 @@ import java.util.Comparator;
 /**
  * Compares Influencers based on reach engagement rates
  *
- * @author Darren Hsu (darrenshu)
- * @author Nami Jain (jainnami)
- * @author Sam Shumaker (sshumak)
- * @author Vivan Verma (vivanv)
- * @version 12/01/2023
  */
 public class ComparatorEngagementReach implements Comparator<Influencer>
 {
