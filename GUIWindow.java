@@ -4,16 +4,7 @@ import cs2.*;
 import java.awt.Color;
 import java.text.DecimalFormat;
 
-// -------------------------------------------------------------------------
-/**
- * Generates and updates a graphical user interface
- * 
- * @author Darren Hsu (darrenhsu)
- * @author Nami Jain (jainnami)
- * @author Sam Shumaker (sshumak)
- * @author Vivan Verma (vivanv)
- * @version 12/01/2023
- */
+
 public class GUIWindow
 {
     private InfluencerCalculator calculator;
