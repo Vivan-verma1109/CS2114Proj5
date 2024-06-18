@@ -1,12 +1,4 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those who
-// do.
-// -- Darren Hsu (darrenhsu)
-// -- Nami Jain (jainnami)
-// -- Sam Shumaker (sshumak)
-// -- Vivan Verma (vivanv)
+
 package prj5;
 
 import java.util.Comparator;
@@ -15,10 +7,7 @@ import list.ListInterface;
 /**
  * Stores objects in an ordered, linked fashion
  * 
- * @author Darren Hsu (darrenshu)
- * @author Nami Jain (jainnami)
- * @author Sam Shumaker (sshumak)
- * @author Vivan Verma (vivanv)
+
  * @version 12/01/2023
  * @param <T>
  *            Type the LinkedList is storing
