@@ -5,13 +5,7 @@ import java.text.DecimalFormat;
 
 // -------------------------------------------------------------------------
 /**
- * Runs the project and produces an output
- * 
- * @author Darren Hsu (darrenhsu)
- * @author Nami Jain (jainnami)
- * @author Sam Shumaker (sshumak)
- * @author Vivan Verma (vivanv)
- * @version 12/01/2023
+
  */
 public class ProjectRunner
 {
